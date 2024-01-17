@@ -1,0 +1,19 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4235-6C93
+
+ Directory of C:\Users\YASHASWINI\djangogirls
+
+10-01-2024  13:08    <DIR>          .
+06-01-2024  13:56    <DIR>          ..
+09-01-2024  17:02    <DIR>          blog
+10-01-2024  12:41           151,552 db.sqlite3
+09-01-2024  18:08               684 manage.py
+08-01-2024  12:09    <DIR>          mysite
+08-01-2024  12:09    <DIR>          myvenv
+05-01-2024  17:58    <DIR>          New folder
+10-01-2024  13:08                 0 output.txt
+10-01-2024  12:55    <DIR>          polls
+09-01-2024  14:20               663 py.txt
+08-01-2024  12:09                16 requirements.txt
+               5 File(s)        152,915 bytes
+               7 Dir(s)  378,097,451,008 bytes free
